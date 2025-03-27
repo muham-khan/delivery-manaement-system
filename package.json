@@ -21,14 +21,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/maruffahmed/Delivery-management-system.git"
+        "url": "git+https://github.com/muham-khan/Delivery-management-system.git"
     },
     "author": "Md Maruf Ahmed",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/maruffahmed/Delivery-management-system/issues"
+        "url": "https://github.com/muham-khan/Delivery-management-system/issues"
     },
-    "homepage": "https://github.com/maruffahmed/Delivery-management-system#readme",
+    "homepage": "https://github.com/muham-khan/Delivery-management-system#readme",
     "dependencies": {
         "concurrently": "^7.6.0"
     },
